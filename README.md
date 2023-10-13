@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# C-Tracker
 Created a system for managing college inventory online that allows faculties to place orders and provide an estimated budget. It assists in managing college inventory.
 
 
@@ -14,9 +14,6 @@ Created a system for managing college inventory online that allows faculties to 
 
 
 ## Working Snippets
-
-### Login Page
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/57083596/183278023-c980e7e0-b084-404a-b3a3-7b877b08efb8.png">
 
 ### Admin View
 #### Inventory 
